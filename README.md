@@ -2,6 +2,8 @@
 
 A data warehousing solution for an e-commerce business, built using Snowflake and visualized with Tableau. This project demonstrates the end-to-end implementation of a data warehouse, from data generation to visualization.
 
+🔗 **[Click here to view the dashboard on Tableau Public](https://public.tableau.com/views/OrdersOverviewDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+
 ## Project Overview
 
 This project implements a star schema data warehouse for an e-commerce business with the following components:
